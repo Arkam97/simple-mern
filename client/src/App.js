@@ -46,6 +46,7 @@ const App = () => {
         />
         <input className="btn-primary" type="submit" value="Add" />
       </form>
+      <p>Hello world</p>
     </div>
   );
 };
